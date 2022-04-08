@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Yolo_farm_fresh/static/css/main.da51e205.chunk.css",
+    "main.js": "/Yolo_farm_fresh/static/js/main.9781d0e6.chunk.js",
+    "main.js.map": "/Yolo_farm_fresh/static/js/main.9781d0e6.chunk.js.map",
+    "runtime-main.js": "/Yolo_farm_fresh/static/js/runtime-main.78da8ca6.js",
+    "runtime-main.js.map": "/Yolo_farm_fresh/static/js/runtime-main.78da8ca6.js.map",
+    "static/css/2.daf4b330.chunk.css": "/Yolo_farm_fresh/static/css/2.daf4b330.chunk.css",
+    "static/js/2.18c0e3af.chunk.js": "/Yolo_farm_fresh/static/js/2.18c0e3af.chunk.js",
+    "static/js/2.18c0e3af.chunk.js.map": "/Yolo_farm_fresh/static/js/2.18c0e3af.chunk.js.map",
+    "index.html": "/Yolo_farm_fresh/index.html",
+    "precache-manifest.20b9f077f977c879324d2c23a5e3ca44.js": "/Yolo_farm_fresh/precache-manifest.20b9f077f977c879324d2c23a5e3ca44.js",
+    "service-worker.js": "/Yolo_farm_fresh/service-worker.js",
+    "static/css/2.daf4b330.chunk.css.map": "/Yolo_farm_fresh/static/css/2.daf4b330.chunk.css.map",
+    "static/css/main.da51e205.chunk.css.map": "/Yolo_farm_fresh/static/css/main.da51e205.chunk.css.map",
+    "static/js/2.18c0e3af.chunk.js.LICENSE.txt": "/Yolo_farm_fresh/static/js/2.18c0e3af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78da8ca6.js",
+    "static/css/2.daf4b330.chunk.css",
+    "static/js/2.18c0e3af.chunk.js",
+    "static/css/main.da51e205.chunk.css",
+    "static/js/main.9781d0e6.chunk.js"
+  ]
+}
